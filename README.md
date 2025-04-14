@@ -22,28 +22,6 @@ Latest Articles👇: </br>
 📝<a href="https://devdreaming.com/blogs/top-10-popular-vs-code-themes" target="blank" rel="dofollow">Top 10 Popular VS Code Themes You Should Try</a>🔥 </br>
 
 </br>
-Latest Tutorials on Youtube👇: </br>
-📺 <a href="https://youtu.be/T5t46vuW8fo" target="blank">Build an Amazing Personal Portfolio Website with Next.js, Three.js & Tailwind CSS</a> </br>
-📺 <a href="https://youtu.be/QNh0MH-G3OM" target="blank">Implement Smooth Scroll & Parallax Effect in Next.js using Lenis and GSAP</a> </br>
-📺 <a href="https://youtu.be/1QGLHOaRLwM" target="blank">Next.js 13 Blog Tutorial: Build SEO Optimized Blog with Next.js, Contentlayer, and Tailwind CSS 🔥</a> </br>
-📺 <a href="https://youtu.be/Yw7yWHigGKI" target="blank">How to Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟</a> </br>
-📺 <a href="https://youtu.be/JPlVb3t6kx8" target="blank">React Website Tutorial: ⭐Build Feature Rich Crypto Screener App with Tailwind CSS</a>
-
-
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-</br>
-
-<h3 align="left">▶ Connect with me:</h3>
-<p align="left">
-  <a href="https://www.youtube.com/c/codebucks" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="codebucks" height="30" width="40" /></a>
-  <a href="https://dev.to/codebucks" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="codebucks27" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/codebucks/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="CodeBucks" height="30" width="40" /></a>
-  <a href="https://instagram.com/code.bucks" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
-<a href="https://codepen.io/codebucks27" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codepen.svg" alt="codebucks27" height="30" width="40" /></a>
-<a href="https://twitter.com/code_bucks" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" /></a>
-<a href="https://fb.com/codebucks27" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="codebucks27" height="30" width="40" /></a>
 
 
 </p>
@@ -58,8 +36,6 @@ Latest Tutorials on Youtube👇: </br>
 
 </br>
 </br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebucks27&show_icons=true&locale=en" alt="codebucks27" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebucks27&" alt="codebucks27" /></p> -->
 <!-- </br> -->
