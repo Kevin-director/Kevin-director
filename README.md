@@ -49,22 +49,10 @@
 
 ---
 
-### 🚀 Projects & Contributions
-
-- 🔗 [NFT Marketplace on Ethereum](https://github.com/yourusername/nft-marketplace)
-- 🌐 [DeFi Yield Farming Platform](https://github.com/yourusername/yield-farming)
-- 📦 [Full Stack MERN Boilerplate](https://github.com/yourusername/mern-stack-starter)
-
----
-
-
----
-
 ### 📫 Contact Me
 
 - Email: **kevindirector1113@gmail.com**
 
 ---
 
-> ⚙️ *Building the future one line of code at a time...*
 
