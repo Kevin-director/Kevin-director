@@ -49,6 +49,20 @@
 
 ---
 
+# MY PROJECTS
+• Learning Machine Learning & NLP in Python (Latest - 2024)  
+• Worked on "FarmNet" an application for Agricultural Micro-Entrepreneurs (Feb - 2024)  
+• Made "Nyay" a web application for Lawyers and their clients (Smart India Hackathon - 2023)  
+• Worked on "DevBuddy" a social plaform for developers (2nd Place - SE Hackathon 2023)  
+• Made an AI Product Reviewer (ReviewScope) (Sem IV B.Tech. CE 2023)    
+• Collaborated on the event website for "Code Red" - Oculus Coding League (2022-23)    
+• Made a Hospital Website as DBMS Mini-Project (SEM III B.Tech CE 2022)  
+• Made a simple Crypto Blockchain using linked lists as DS Mini-Project (Sem III B.Tech CE 2022)  
+• Made a discord bot (StarBot) as a general multipurpose bot (2021)  
+• Made many Python Based Mini Projects (2021)  
+
+---
+
 ### 📫 Contact Me
 
 - Email: **kevindirector1113@gmail.com**
