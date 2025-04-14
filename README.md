@@ -5,13 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Kevin-director">
     <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:youremail@example.com">
+  <a href="kevindirector1113.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-green" />
   </a>
 </p>
