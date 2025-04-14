@@ -29,23 +29,30 @@
 
 ### 💻 Tech Stack
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) 
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)  
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38b2ac?logo=tailwind-css&logoColor=white)  
-![Redux](https://img.shields.io/badge/-Redux-764abc?logo=redux&logoColor=white)  
+### 🚀 Frontend
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Next.js-000?logo=next.js" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38b2ac?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redux-764abc?logo=redux&logoColor=white" />
+</div>
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+### 🧠 Backend
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" />
+</div>
 
-**Blockchain:**  
-![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)  
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white)  
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white)  
-![Hardhat](https://img.shields.io/badge/-Hardhat-FCBA03?logo=ethereum)
+### ⛓️ Blockchain
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hardhat-FCBA03?logo=ethereum" />
+</div>
+
 
 ---
 
