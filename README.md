@@ -8,7 +8,7 @@
   <a href="https://github.com/Kevin-director">
     <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" />
   </a>
-  <a href="kevindirector1113.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-green" />
   </a>
 </p>
