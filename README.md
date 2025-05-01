@@ -20,7 +20,7 @@
 - 🔭 I’m currently working as a **Senior Full Stack & Blockchain Developer**
 - 💡 Passionate about building scalable web apps and decentralized systems
 - 💬 Ask me about: `Solidity`, `React`, `Node.js`, `Web3`, `EVM`, `DeFi`, `NFTs`
-- ⚡ Fun fact: I love turning complex problems into elegant, clean code
+- ⚡ Fun fact: I love turning complex problems into elegant, clean code.
 
 ---
 
