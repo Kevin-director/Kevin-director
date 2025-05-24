@@ -1,20 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kevin</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Full+Stack+Developer;Blockchain+Engineer;Smart+Contract+Expert;DeFi+Dapp+Architect;Clean+Code+Enthusiast&center=true&width=440&height=45">
-</p>
-
-<p align="center">
-  <a href="https://github.com/Kevin-director">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-green" />
-  </a>
-</p>
-
----
-
 ### 🧠 About Me
 
 - 🔭 I’m currently working as a **Senior Full Stack & WordPress Expert and Designer**
