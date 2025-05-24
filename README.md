@@ -17,9 +17,9 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working as a **Senior Full Stack & Blockchain Developer**
+- 🔭 I’m currently working as a **Senior Full Stack & WordPress Expert and Designer**
 - 💡 Passionate about building scalable web apps and decentralized systems
-- 💬 Ask me about: `Solidity`, `React`, `Node.js`, `Web3`, `EVM`, `DeFi`, `NFTs`
+- 💬 Ask me about: `Elementor`, `Divi`, `Woocommerce`
 - ⚡ Fun fact: I love turning complex problems into elegant, clean code
 
 ---
