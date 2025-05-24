@@ -42,15 +42,6 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" />
 </div>
 
-### ⛓️ Blockchain
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hardhat-FCBA03?logo=ethereum" />
-</div>
-
-
 ---
 
 # MY PROJECTS
@@ -61,15 +52,8 @@
 • Made an AI Product Reviewer (ReviewScope) (Sem IV B.Tech. CE 2023)    
 • Collaborated on the event website for "Code Red" - Oculus Coding League (2022-23)    
 • Made a Hospital Website as DBMS Mini-Project (SEM III B.Tech CE 2022)  
-• Made a simple Crypto Blockchain using linked lists as DS Mini-Project (Sem III B.Tech CE 2022)  
 • Made a discord bot (StarBot) as a general multipurpose bot (2021)  
 • Made many Python Based Mini Projects (2021)  
-
----
-
-### 📫 Contact Me
-
-- Email: **kevindirector1113@gmail.com**
 
 ---
 
